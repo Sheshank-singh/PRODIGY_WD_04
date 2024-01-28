@@ -8,7 +8,7 @@ Welcome to the Weather App, a simple web application that provides current weath
 
 <b>Search for a City:</b> Use the search box to find the weather details for a specific city. <br />
 <b>Responsive Design:</b> Enjoy a seamless experience on various devices.<br />
-<b>*Current Weather:</b> Get real-time information about the temperature, weather condition, and date.<br />
+<b>Current Weather:</b> Get real-time information about the temperature, weather condition, and date.<br />
 <b>Background Image:</b> Enhance the visual experience with a dynamic background image.</b><br />
 
 <h3>Technologies Used:</h3>
